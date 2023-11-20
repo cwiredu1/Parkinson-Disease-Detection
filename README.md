@@ -27,3 +27,14 @@ This dataset is composed of a range of biomedical voice measurements from 31 peo
 * RPDE, D2 - Two nonlinear dynamical complexity measures
 * DFA - Signal fractal scaling exponent
 * spread1,spread2,PPE - Three nonlinear measures of fundamental frequency variation
+
+# Implementation:
+Libraries: NumPy pandas sklearn Matplotlib
+
+# Best Performing Machine Learning Model
+SVM Classifier was found to be the best performing Classifier with:
+
+    Accuracy: 0.983051
+    F1 Score : 0.980392
+    R2 Score : 0.931235
+
