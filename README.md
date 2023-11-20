@@ -38,4 +38,4 @@ SVM Classifier was found to be the best performing Classifier with:
     R2 Score : 0.931235
     
 # Learnings:
-XGBoost Classifier
+Machine Learning
