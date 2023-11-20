@@ -6,6 +6,9 @@ The objective of this projects is to build a model to accurately detect the pres
 Parkinson's Disease (PD) is a neurodegenerative disease which affects, movement, posture and agility. It involves the gradual loss of dopamine producing neurons in the substantia nigra of the brain which severely affects, fine motor movement, posture, muscular dexterity and strength. Long before Parkinson's is officially diagnosed, a myriad of symptoms start to appear. The earliest ones are trouble having control over fine motor movement like drawing figures and shapes.
 
 # Dataset:
+
 Dataset Used : Parkinsons Disease Dataset
+
 Dataset Source : UCI Machine Learning Repository
+
 Dataset Hosting URL : https://archive.ics.uci.edu/ml/machine-learning-databases/parkinsons/parkinsons.data
