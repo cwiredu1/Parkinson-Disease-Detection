@@ -1,3 +1,3 @@
-![alt text]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtx2TfBZAZNm5CRExCetW2JBfE9N27lSDbgQ&usqp=CAU]
+![image description](C:\Users\charl\OneDrive\Desktop\DATA\parkinson_disease_brain.Jpg)
 # Parkinson-Disease-Detection Using Machine Learning
 The objective of this projects is to build a model to accurately detect the presence of Parkinson’s disease in an individual.
