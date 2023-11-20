@@ -1,4 +1,3 @@
-![stack Overflow](http://lmsotfy.com/so.png)
 # Parkinson-Disease-Detection Using Machine Learning
 The objective of this projects is to build a model to accurately detect the presence of Parkinson’s disease in an individual.
 
@@ -37,4 +36,6 @@ SVM Classifier was found to be the best performing Classifier with:
     Accuracy: 0.983051
     F1 Score : 0.980392
     R2 Score : 0.931235
-
+    
+# Learnings:
+XGBoost Classifier
